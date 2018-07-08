@@ -1,0 +1,34 @@
+{
+    "author": "Benni",
+    "dependencies": {},
+    "keywords": [],
+    "name": "cyananalog",
+    "pebble": {
+        "displayName": "CyanAnalog",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/preview",
+                    "menuIcon": true,
+                    "name": "PREVIEW",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "84588a32-a5fe-436b-a418-81158e5235eb",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
